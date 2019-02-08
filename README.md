@@ -1,0 +1,2 @@
+# KaperzovPersonal
+C# kursi
